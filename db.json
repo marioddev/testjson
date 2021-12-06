@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "planos" : [
+    { "id": 1, "titulo": "plano 1"}
+  ]
 }
