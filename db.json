@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "planos" : [
-    { "id": 1, "titulo": "plano 1" },
-    { "id": 2, "titulo": "plano 2" }
+    { "id": 1, "titulo": "DISCIPLINA ARQUITECTURA LISTA DE EDIFICIOS Y MATRIZ DE REQUISITOS", "subtitulo": "LISTADO DE REQUISICIÓN", "nombreDocumento":"MQCL-1000-IND-0000-LIS-AQ00-0002"},
+    { "id": 2, "titulo": "CAÑERIAS LISTADO DE LÍNEAS", "subtitulo": "LISTADO DE CAÑERIAS", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0001"},
   ]
 }
