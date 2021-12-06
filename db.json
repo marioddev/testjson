@@ -11,7 +11,8 @@
   "profile": {
     "name": "typicode"
   },
-  "planos" : 
-    { "id": 1, "titulo": "plano 1" }
-  
+  "planos" : [
+    { "id": 1, "titulo": "plano 1" },
+    { "id": 2, "titulo": "plano 2" }
+  ]
 }
