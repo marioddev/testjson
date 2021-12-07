@@ -12,7 +12,28 @@
     "name": "typicode"
   },
   "planos" : [
-    { "id": 1, "titulo": "DISCIPLINA ARQUITECTURA LISTA DE EDIFICIOS Y MATRIZ DE REQUISITOS", "subtitulo": "LISTADO DE REQUISICIÓN", "nombreDocumento":"MQCL-1000-IND-0000-LIS-AQ00-0002"},
-    { "id": 2, "titulo": "CAÑERÍAS LISTADO DE LÍNEAS", "subtitulo": "LISTADO DE CAÑERÍAS", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0001" }
+    { 
+      "id": 1, 
+     "titulo": "DISCIPLINA ARQUITECTURA LISTA DE EDIFICIOS Y MATRIZ DE REQUISITOS", 
+     "subtitulo": "LISTADO DE REQUISICIÓN", 
+     "nombreDocumento":"MQCL-1000-IND-0000-LIS-AQ00-0002",
+      "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view"
+    },
+    { 
+      "id": 2, "titulo": "CAÑERÍAS LISTADO DE LÍNEAS", "subtitulo": "LISTADO DE CAÑERÍAS", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0001",
+      "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+    },
+    { 
+      "id": 3, "titulo": "CAÑERÍAS LISTADO DE VÁLVULA", "subtitulo": "LISTADO DE VÁLVULA", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0004",
+      "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+    },
+    { 
+      "id": 4, "titulo": "CAÑERÍAS LISTADO DE PIEZAS ESPECIALES", "subtitulo": "LISTADO DE PIEZAS ESPECIALES", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0007",
+      "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+    },
+    { 
+      "id": 5, "titulo": "CAÑERÍAS LISTADO DE SOPORTES", "subtitulo": "LISTADO SOPORTE", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0008",
+      "urlArchivo": "https://drive.google.com/file/d/1-VIYMDvJ9sJk_Q_kQKUfA38AqCqb1Gc2/view" 
+    }
   ]
 }
