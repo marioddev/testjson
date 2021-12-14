@@ -13,27 +13,200 @@
   },
   "planos" : [
     { 
-      "id": 1, 
-     "titulo": "DISCIPLINA ARQUITECTURA LISTA DE EDIFICIOS Y MATRIZ DE REQUISITOS", 
-     "subtitulo": "LISTADO DE REQUISICIÓN", 
-     "nombreDocumento":"MQCL-1000-IND-0000-LIS-AQ00-0002",
-      "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view"
+      "id": 91, "titulo": "DISCIPLINA ARQUITECTURA LISTA DE EDIFICIOS Y MATRIZ DE REQUISITOS",  "subtitulo": "LISTADO DE REQUISICIÓN",  "nombreDocumento":"MQCL-1000-IND-0000-LIS-AQ00-0002", "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view"
     },
     { 
-      "id": 2, "titulo": "CAÑERÍAS LISTADO DE LÍNEAS", "subtitulo": "LISTADO DE CAÑERÍAS", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0001",
-      "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+      "id": 92, "titulo": "CAÑERÍAS LISTADO DE LÍNEAS", "subtitulo": "LISTADO DE CAÑERÍAS", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0001","urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
     },
     { 
-      "id": 3, "titulo": "CAÑERÍAS LISTADO DE VÁLVULA", "subtitulo": "LISTADO DE VÁLVULA", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0004",
-      "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+      "id": 93, "titulo": "CAÑERÍAS LISTADO DE VÁLVULA", "subtitulo": "LISTADO DE VÁLVULA", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0004", "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
     },
     { 
-      "id": 4, "titulo": "CAÑERÍAS LISTADO DE PIEZAS ESPECIALES", "subtitulo": "LISTADO DE PIEZAS ESPECIALES", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0007",
-      "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+      "id": 94, "titulo": "CAÑERÍAS LISTADO DE PIEZAS ESPECIALES", "subtitulo": "LISTADO DE PIEZAS ESPECIALES", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0007", "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
     },
     { 
-      "id": 5, "titulo": "CAÑERÍAS LISTADO DE SOPORTES", "subtitulo": "LISTADO SOPORTE", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0008",
-      "urlArchivo": "https://drive.google.com/file/d/1-VIYMDvJ9sJk_Q_kQKUfA38AqCqb1Gc2/view" 
+      "id": 95, "titulo": "CAÑERÍAS LISTADO DE SOPORTES", "subtitulo": "LISTADO SOPORTE", "nombreDocumento":"MQCL-1000-IND-0000-LIS-CA00-0008", "urlArchivo": "https://drive.google.com/file/d/1-VIYMDvJ9sJk_Q_kQKUfA38AqCqb1Gc2/view" 
     }
-  ]
+    [
+ {
+   "id": 1,
+   "nombreDocumento": "MQCL-1.4.1490.01-VEN-0000-PLN-ME00-0105",
+   "REVISIÓN": 2,
+   "titulo": "PLANOS DE FABRICACION / MOLIENDA PRIMARIA - CANALETA DE DESCARGA MOLINO DE BOLAS",
+   "TIPO DE INGENIERÍA": "IND",
+   "IDENTIFICACIÓN DCTO VENDOR": "VEN",
+   "PDF": "SI",
+   "WBS": 3100,
+   "TAG EQUIPO": "3211-LA-011 / 3211-LA-021 / 3211-LA-031 ",
+   "ORDEN DE COMPRA": "4-1490-01-00105-4",
+   "subtitulo": "MOLIENDA PRIMARIA",
+   "DISCIPLINA": "MECANICA",
+   "TIPO DOCUMENTO": "PLN",
+   "PROYECTO": "A6QM",
+   "CONTRATISTA": "REINIKE",
+   "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+ },
+ {
+   "id": 2,
+   "nombreDocumento": "MQCL-1.4.1490.01-VEN-0000-PLN-ME00-0129",
+   "REVISIÓN": 2,
+   "titulo": "PLANOS DE FABRICACION / HARNEROS - CHUTE TRASPASO A CORREA CV-170 2611-ST-116/126/216/226/316/326",
+   "TIPO DE INGENIERÍA": "IND",
+   "IDENTIFICACIÓN DCTO VENDOR": "VEN",
+   "PDF": "SI",
+   "WBS": 2611,
+   "TAG EQUIPO": "2611-ST-116 / 2611-ST-216 / 2611-ST-126 / 2611-ST-226",
+   "ORDEN DE COMPRA": "4-1490-01-00129-4",
+   "subtitulo": "HARNERO SECUNDARIO",
+   "DISCIPLINA": "MECANICA",
+   "TIPO DOCUMENTO": "PLN",
+   "PROYECTO": "A6QM",
+   "CONTRATISTA": "REINIKE",
+   "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+ },
+ {
+   "id": 3,
+   "nombreDocumento": "MQCL-1.4.1490.01-VEN-0000-PLN-ME00-0115",
+   "REVISIÓN": 3,
+   "titulo": "HARNERO MOLINO DE BOLAS CHUTE BAJO TAMANO",
+   "TIPO DE INGENIERÍA": "IND",
+   "IDENTIFICACIÓN DCTO VENDOR": "VEN",
+   "PDF": "SI",
+   "WBS": 2600,
+   "TAG EQUIPO": "2611-ST-115 / 2611-ST-215 / 2611-ST-125 / 2611-ST-225",
+   "ORDEN DE COMPRA": "4-1490-01-00115-6",
+   "subtitulo": "HARNERO SECUNDARIO",
+   "DISCIPLINA": "MECANICA",
+   "TIPO DOCUMENTO": "PLN",
+   "PROYECTO": "A6QM",
+   "CONTRATISTA": "REINIKE",
+   "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+ },
+ {
+   "id": 4,
+   "nombreDocumento": "MQCL-1.4.1490.01-VEN-0000-PLN-ME00-0126",
+   "REVISIÓN": 2,
+   "titulo": "PLANOS DE FABRICACION / HARNEROS - CHUTE TRASPASO A CORREA CV-170 2611-ST-116/126/216/226/316/326",
+   "TIPO DE INGENIERÍA": "IND",
+   "IDENTIFICACIÓN DCTO VENDOR": "VEN",
+   "PDF": "SI",
+   "WBS": 2611,
+   "TAG EQUIPO": "2611-ST-116 / 2611-ST-216 / 2611-ST-126 / 2611-ST-226",
+   "ORDEN DE COMPRA": "4-1490-01-00126-4",
+   "subtitulo": "HARNERO SECUNDARIO",
+   "DISCIPLINA": "MECANICA",
+   "TIPO DOCUMENTO": "PLN",
+   "PROYECTO": "A6QM",
+   "CONTRATISTA": "REINIKE",
+   "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+ },
+ {
+   "id": 5,
+   "nombreDocumento": "MQCL-1.4.1490.01-VEN-0000-PLN-ME00-0127",
+   "REVISIÓN": 1,
+   "titulo": "PLANOS DE FABRICACION / HARNEROS - CHUTE TRASPASO A CORREA CV-170 2611-ST-116/126/216/226/316/326",
+   "TIPO DE INGENIERÍA": "IND",
+   "IDENTIFICACIÓN DCTO VENDOR": "VEN",
+   "PDF": "SI",
+   "WBS": 2611,
+   "TAG EQUIPO": "2611-ST-116 / 2611-ST-216 / 2611-ST-126 / 2611-ST-226",
+   "ORDEN DE COMPRA": "4-1490-01-00127-3",
+   "subtitulo": "HARNERO SECUNDARIO",
+   "DISCIPLINA": "MECANICA",
+   "TIPO DOCUMENTO": "PLN",
+   "PROYECTO": "A6QM",
+   "CONTRATISTA": "REINIKE",
+   "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+ },
+ {
+   "id": 6,
+   "nombreDocumento": "MQCL-1.4.1490.01-VEN-0000-PLN-ME00-0125",
+   "REVISIÓN": 2,
+   "titulo": "PLANOS DE FABRICACION / HARNEROS - CHUTE TRASPASO A CORREA CV-170 2611-ST-116/126/216/226/316/326",
+   "TIPO DE INGENIERÍA": "IND",
+   "IDENTIFICACIÓN DCTO VENDOR": "VEN",
+   "PDF": "SI",
+   "WBS": 2611,
+   "TAG EQUIPO": "2611-ST-116 / 2611-ST-216 / 2611-ST-126 / 2611-ST-226",
+   "ORDEN DE COMPRA": "4-1490-01-00125-4",
+   "subtitulo": "HARNERO SECUNDARIO",
+   "DISCIPLINA": "MECANICA",
+   "TIPO DOCUMENTO": "PLN",
+   "PROYECTO": "A6QM",
+   "CONTRATISTA": "REINIKE",
+   "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+ },
+ {
+   "id": 7,
+   "nombreDocumento": "MQCL-1.4.1490.01-VEN-0000-PLN-ME00-0128",
+   "REVISIÓN": 1,
+   "titulo": "PLANOS DE FABRICACION / HARNEROS - CHUTE TRASPASO A CORREA CV-170 2611-ST-116/126/216/226/316/326",
+   "TIPO DE INGENIERÍA": "IND",
+   "IDENTIFICACIÓN DCTO VENDOR": "VEN",
+   "PDF": "SI",
+   "WBS": 2611,
+   "TAG EQUIPO": "2611-ST-116 / 2611-ST-216 / 2611-ST-126 / 2611-ST-226",
+   "ORDEN DE COMPRA": "4-1490-01-00128-3",
+   "subtitulo": "HARNERO SECUNDARIO",
+   "DISCIPLINA": "MECANICA",
+   "TIPO DOCUMENTO": "PLN",
+   "PROYECTO": "A6QM",
+   "CONTRATISTA": "REINIKE",
+   "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+ },
+ {
+   "id": 8,
+   "nombreDocumento": "MQCL-1.4.1490.01-VEN-0000-DOS-GR00-1054",
+   "REVISIÓN": 1,
+   "titulo": "REGISTRO DE FABRICACION - NV: 11139 - EQUIPO: 3211-LA-(011-021-031)",
+   "TIPO DE INGENIERÍA": "IND",
+   "IDENTIFICACIÓN DCTO VENDOR": "VEN",
+   "PDF": "SI",
+   "WBS": 3211,
+   "TAG EQUIPO": "3211-LA-011 / 3211-LA-021 / 3211-LA-031 ",
+   "ORDEN DE COMPRA": "4-1490-01-00105-4",
+   "subtitulo": "MOLINO BOLAS",
+   "DISCIPLINA": "MECANICA",
+   "TIPO DOCUMENTO": "DCTO",
+   "PROYECTO": "A6QM",
+   "CONTRATISTA": "REINIKE",
+   "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+ },
+ {
+   "id": 9,
+   "nombreDocumento": "MQCL-1.4.1490.01-VEN-0000-DOS-GR00-1050",
+   "REVISIÓN": 1,
+   "titulo": "REGISTRO DE FABRICACION - NV: 11139 - EQUIPO: 2611-ST-115/125/225/315/325",
+   "TIPO DE INGENIERÍA": "IND",
+   "IDENTIFICACIÓN DCTO VENDOR": "VEN",
+   "PDF": "SI",
+   "WBS": 2611,
+   "TAG EQUIPO": "2611-ST-115 / 2611-ST-215 / 2611-ST-125 / 2611-ST-225",
+   "ORDEN DE COMPRA": "4-1490-01-01050-1",
+   "subtitulo": "HARNERO SECUNDARIO",
+   "DISCIPLINA": "MECANICA",
+   "TIPO DOCUMENTO": "DCTO",
+   "PROYECTO": "A6QM",
+   "CONTRATISTA": "REINIKE",
+   "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+ },
+ {
+   "id": 10,
+   "nombreDocumento": "MQCL-1.4.1490.01-VEN-0000-DOS-GR00-1078",
+   "REVISIÓN": 2,
+   "titulo": "REGISTRO DE FABRICACION - NV: 11139 - EQUIPO: 2611-ST-(114-116_214-216_314-316) CHUTE PANTALON",
+   "TIPO DE INGENIERÍA": "IND",
+   "IDENTIFICACIÓN DCTO VENDOR": "VEN",
+   "PDF": "SI",
+   "WBS": 2611,
+   "TAG EQUIPO": "2611-ST-114 / 2611-ST-116 / 2611-ST-216 / 2611-ST-314 / 2611-ST-316",
+   "ORDEN DE COMPRA": "4-1490-01-01078-1",
+   "subtitulo": "HARNERO SECUNDARIO",
+   "DISCIPLINA": "MECANICA",
+   "TIPO DOCUMENTO": "DCTO",
+   "PROYECTO": "A6QM",
+   "CONTRATISTA": "REINIKE",
+   "urlArchivo": "https://drive.google.com/file/d/10-qWNOBCX02ndosqkRmHx8IbiJyJkV3t/view" 
+ }
+]
 }
