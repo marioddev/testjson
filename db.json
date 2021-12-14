@@ -11,6 +11,23 @@
   "profile": {
     "name": "typicode"
   },
+  "areas": [
+     {
+       "id": 1,
+       "nombre": "MOLIENDA PRIMARIA",
+       "imagenAvatar": "default.jpg"
+     },
+     {
+       "id": 2,
+       "nombre": "HARNERO SECUNDARIO",
+       "imagenAvatar": "default.jpg"
+     },
+     {
+       "id": 3,
+       "nombre": "MOLINO BOLAS",
+       "imagenAvatar": "default.jpg"
+     }
+  ],
   "planos" : [
      {
        "id": 1,
