@@ -12,22 +12,77 @@
     "name": "typicode"
   },
   "areas": [
-     {
-       "id": 1,
-       "nombre": "MOLIENDA PRIMARIA",
-       "imagenAvatar": "default.jpg"
-     },
-     {
-       "id": 2,
-       "nombre": "HARNERO SECUNDARIO",
-       "imagenAvatar": "default.jpg"
-     },
-     {
-       "id": 3,
-       "nombre": "MOLINO BOLAS",
-       "imagenAvatar": "default.jpg"
-     }
-  ],
+ {
+   "id": 1,
+   "nombre": "Chancado Primario",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 2,
+   "nombre": "Transporte Mineral Grueso",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 3,
+   "nombre": "Stockpile",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 4,
+   "nombre": "Chancado Secundario",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 5,
+   "nombre": "HPGR",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 6,
+   "nombre": "Harnero Secundario",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 7,
+   "nombre": "Molienda",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 8,
+   "nombre": "Flotación",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 9,
+   "nombre": "Remolienda",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 10,
+   "nombre": "Flotación Limpieza",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 11,
+   "nombre": "Espesador",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 12,
+   "nombre": "Filtros",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 13,
+   "nombre": "Moly",
+   "imagenAvatar": "default.jpg"
+ },
+ {
+   "id": 14,
+   "nombre": "Otros",
+   "imagenAvatar": "default.jpg"
+ }
+],
   "planos" : [
      {
        "id": 1,
