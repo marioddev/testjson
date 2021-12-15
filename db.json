@@ -25,12 +25,12 @@
  {
    "id": 3,
    "nombre": "Stockpile",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg"
  },
  {
    "id": 4,
    "nombre": "Chancado Secundario",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg"
  },
  {
    "id": 5,
@@ -40,7 +40,7 @@
  {
    "id": 6,
    "nombre": "Harnero Secundario",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg"
  },
  {
    "id": 7,
