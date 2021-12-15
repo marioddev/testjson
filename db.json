@@ -15,72 +15,86 @@
  {
    "id": 1,
    "nombre": "Chancado Primario",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"2100"
  },
  {
    "id": 2,
    "nombre": "Transporte Mineral Grueso",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"2200"
  },
  {
    "id": 3,
    "nombre": "Stockpile",
-   "imagenAvatar": "default2.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"2300"
  },
  {
    "id": 4,
    "nombre": "Chancado Secundario",
-   "imagenAvatar": "default2.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"2400"
  },
  {
    "id": 5,
    "nombre": "HPGR",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"2500"
  },
  {
    "id": 6,
    "nombre": "Harnero Secundario",
-   "imagenAvatar": "default2.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"2600"
  },
  {
    "id": 7,
    "nombre": "Molienda",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"3100"
  },
  {
    "id": 8,
    "nombre": "Flotación",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"3300"
  },
  {
    "id": 9,
    "nombre": "Remolienda",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"3400"
  },
  {
    "id": 10,
    "nombre": "Flotación Limpieza",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"3500"
  },
  {
    "id": 11,
    "nombre": "Espesador",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"3600"
  },
  {
    "id": 12,
    "nombre": "Filtros",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"3700"
  },
  {
    "id": 13,
    "nombre": "Moly",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":"3800"
  },
  {
    "id": 14,
    "nombre": "Otros",
-   "imagenAvatar": "default.jpg"
+   "imagenAvatar": "default2.jpg",
+   "wbs":""
  }
 ],
   "planos" : [
@@ -128,7 +142,7 @@
        "tipoIngenieria": "IND",
        "IdentificacionDctoVendor": "VEN",
        "pdf": "SI",
-       "wbs": 2600,
+       "wbs": 2611,
        "tagEquipo": "2611-ST-115 / 2611-ST-215 / 2611-ST-125 / 2611-ST-225",
        "ordenCompra": "4-1490-01-00115-6",
        "area": "HARNERO SECUNDARIO",
